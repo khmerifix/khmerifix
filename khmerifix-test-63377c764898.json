@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "khmerifix-test",
+  "private_key_id": "63377c764898d8f274a6813a79ccbfa8b46965e1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsxgSSwD6UI/sB\nODDUZ8uiJLxlAl0IJqzmk+QQU3vSHTwqFZpQKdEzVrLww9O/Ye4xg9D4quYr9Ekn\njccVvmvl53ADLPcKSVxrK7wVMDATYT1zic+mR895ybTB3sRLtrH11vXGKc/YUY0O\naVXxag4XATVbNL02XFh+OZ/htj5VMonHl7327g7GggFIVd4iuxHd7kpVLes6nsi/\nQu33VmADSrOwITh8Od+3bwfJDTeKnAzpq1oqfkmGhp5v9Nph2omRuoqEM09LqMO2\ncyyUgO+Zxkl1j7ZFJCAJ+Q53Jw1UUd5sSph7K7KR6SWHtzcTIECuygOx0FEI8pLf\n3cG73L5NAgMBAAECggEAGqVplCaBIEDSV/ROF5wwfD/VLHDqXzTzypX5gQkXGic3\nHbh6Na3VXWkcLOTO1f/pCArv4kIdQJ8q3yZPE4vsQSdqD5tSOGxrC/5RQiVN7Nc8\n7oJNG7SMi5hvv8y3EoRJOwSdoCPXseGV8yiMwDBenu6pR3lBS05/uWvyvBFq2KGz\nQXfGMOVYA5MglNVKKgEbi4HQ710j6kRz52h1H2GRJ6gIcW/r7fMcw2Y3yU5IeZ6o\niCNMpVCmNX4B54QUFLZvsJcGAfrolSVwCdHHKKlBlJSK2+kzZxHEDJyFd9gA2Xn/\n71RlBepN/pZL+Xf/7V0MgniDmCG6LYgcUY1jyTdBIQKBgQDfCKkO4TMDlz5MFf66\n6ZmrVSLFEqVhixDCmPmsC0IahMEWwiBTGLJSxjvangy69QBCmHQwMKhaAWpraPJS\nCN1+Ec7IdjnW0y4+mMBJ8KDDdet2ZJfoaSCe7R9X4eEZ5MtT5wolaHwXLVhd0uU7\nX89UxAxUt8yebl7QV4yWpD88fQKBgQDGT5DKPpvUXWU2Ybga2EuyUx3MlAX93cs8\nns/I8slGcDw7+dXA7sr+LqH+Qqs9NEiMAOfRU3NL0sJthWvHjuknB7+FSxRq7nre\nsZRQt0qho7f827PHUWqFmUvjettuJiRseTZ2ITp7MP2s067HwbpqLNiBAMtMMn+N\nWlEO9o/CEQKBgQCJcojdBqOtntNhiFyHS9bL45ed47PPvSgDBMs432dJeG6WW+QX\n0axznn7cZ3Jo9PvIDrPrztCxRxYSQ4ayT4xQWSEaIOHcJiDlqrU12/j2/ACz4aJM\nNB1KU89xFV7n2jwD5Oo3y4BNuEAw8fsa8ByRnJAM1YhgSpxbwNh/LZFa8QKBgETM\nNZ70OXtjK0nCfOxTPW+QBjaC49E+sNNHBS7hi5I0PbFQ6ycTsLid1PUwi9ef28s2\nRTYJjWYwp+L29n00xw4TUg4cDelK8rVvRdT6wZlyAtJmJehwBlRy6jDw3k9ITDqV\nkp9Ix9EVHexnQ6tpOhK7nCCk9eJpYnbXbmeSgi0BAoGBALF8STwa6tmLmgO4HwcT\nu8FL9YaAj/A8NaUJ5dfbliUPOQXXPKsO9J80Q4qmKfmCQILgiZkIVQN38BeZppIM\n6xq6epzog+NzGJydGGwA2OiffisV3aSdxzZWAf6Mv2bVSTqK0ri06BtBd8E0jMc5\nEqnqQZs58L4x3bQsr5DEXpwz\n-----END PRIVATE KEY-----\n",
+  "client_email": "khmerifix-test@khmerifix-test.iam.gserviceaccount.com",
+  "client_id": "107312508010397565624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/khmerifix-test%40khmerifix-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
