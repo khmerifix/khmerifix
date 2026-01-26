@@ -1,1 +1,1 @@
-📢 NEWS: Wow! ជំនាន់ v0.6 ជំនាន់ថ្មីនេះមានបន្ថែម Function Split Video, Vocal Remover, RVC Khmer Voice ចូលបានគ្រប់សម្លេងផ្នែកសម្រាយរឿង ហើយសម្រាប់ Generate Script យើងបែងចែកជាបីផ្នែក 1-Geminni Trand Script (Use API ល្អសម្រាប់ចាប់បញញចូលសម្លេង ស្រី ប្រុស ចាស់ ក្មេង) 2-Free Offline API Trand តាម Model AI Tiny Bass smale meduim lage Ulimited Generator script. 3-Premium OpenAI Whisper (Use API good for khmer script តែមិនអាចចាប់សម្លេងស្រីប្រុសបានទេ) បើសិនជាមាចម្ងល: @t.me/Khmerifix for Telegram or @khmerifix Animations for Facebook
+
