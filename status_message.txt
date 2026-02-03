@@ -1,2 +1,2 @@
-📢 NEWS: Version v0.7 ជំនាន់ថ្មីនេះមានបន្ថែម Function AI Edit Multi Batch Transcribe ថ្មីមួយទៀតសម្រាប់ Use ហើយសម្រាប់ Generate Script យើងបានកែរសម្រួលបន្ថែមកាន់តែល្អ បើសិនជាមាចម្ងល: @t.me/Khmerifix for Telegram or @khmerifix Animations for Facebook
+📢 NEWS: នៅថ្ងៃ 04-02-2026 នឹងដាក់អោយប្រើ Version v0.7 ជំនាន់ថ្មីនេះដែនបន្ថែម Function AI Edit Multi Batch Transcribe នឹង Fixbug ⚙️ Custom Resolution Render បើសិនជាមាចម្ងល: @t.me/Khmerifix for Telegram or @khmerifix Animations for Facebook
 
